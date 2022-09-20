@@ -22,6 +22,9 @@ This is a set of python codes that forecast electricity price in wholesale power
    - Build Long-term Recurrent Convolutional Network Model.
    - Conditional error correction term that is added to the price forecasted by the LRCN model to establish the price prediction.  
          
+4. "LSTM_Prediction" file        
+   - Normalize the raw Dataset using Min-Max and One Hot Encoding methods.
+   - Build LSTM Network Model.
 
 Note:
 With different input variables - there are two types of price forecasting: day-ahead and hour-ahead.
