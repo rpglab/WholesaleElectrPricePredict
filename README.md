@@ -7,7 +7,7 @@ This is a set of python codes that forecast electricity price in wholesale power
 
 1. Temperature data for the Houston region – Weather API. Using a python code, collected the temperature data using API call from the server of the website.
 
-2. ERCOT price data: Taking real time wholesale electricity price for a specific zone i.e. Houston area for four entire years: 2015-2018. Temporal resolution is an hour. 
+2. ERCOT price data: From ercot website, taking real time wholesale electricity price for a specific zone i.e. Houston area for four entire years: 2015-2018. Temporal resolution is an hour. 
 
 3. ERCOT load data: From ercot website, historical load data for each weather zone in the ercot region is got. Houston comes in the coast zone.
 
